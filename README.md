@@ -1,14 +1,15 @@
 # markdown-editor
 Markdown editor based on pagedown WMD and independent plugin autoIndent.js (attached https://github.com/StackExchange/pagedown)
 
-Дальнейшее развитие: https://github.com/femvc/editor
+Further development: https://github.com/femvc/editor
 
-
-https://github.com/Toxu-ru/markdown-editor/blob/master/editor.jpg
+Ready option:
 
 ### View
 
 ![Внешний вид](https://github.com/Toxu-ru/markdown-editor/blob/master/editor.jpg)
+
+To output:
 
 **Configurable Markdown to HTML converter with Parsedown Extra.**
 
